@@ -1,4 +1,4 @@
-# SLIC Starter
+#   SLIC Starter
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
