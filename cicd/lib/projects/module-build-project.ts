@@ -22,7 +22,7 @@ export class ModuleBuildProject extends PipelineProject {
             ...defaultRuntimes
           },
           pre_build: {
-            commands: ['bash ./build-scripts/audit-module.sh']
+            commands: ['']
           },
           build: {
             commands: ['bash ./build-scripts/build-module.sh']
