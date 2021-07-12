@@ -2,9 +2,7 @@
 
 set -e
 
-source ./assume-cross-account-role.env
-
-
+source build-scripts/assume-cross-account-role.env
 
 if [ -e package.json ]; then
   npm ci
