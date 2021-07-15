@@ -1,5 +1,5 @@
 # SLIC Starter CI/CD
-Editing readme so there's something to commit.
+Editing README so there's something to commit.
 ```
 npm run cdk -- bootstrap $AWS_ACCOUNT_ID/eu-west-1
 npm run deploy
